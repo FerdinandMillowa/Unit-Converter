@@ -16,8 +16,11 @@ The temperature conversions are calculated as follows:
 
 * **Fahrenheit to Celsius:** $$C = (F - 32) \times \frac{5}{9}$$
 
+Roadmap.sh url: https://roadmap.sh/projects/unit-converter
+
 ## 🚀 Usage
 Run the script using positional arguments in your terminal:
 
 ```bash
 python converter.py <value> <from_unit> <to_unit>
+
